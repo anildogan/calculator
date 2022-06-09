@@ -9,13 +9,5 @@
         <module name="base-java" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="base-java" target="11" />
-    </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="base-java" options="--add-modules java.base" />
-    </option>
   </component>
 </project>
