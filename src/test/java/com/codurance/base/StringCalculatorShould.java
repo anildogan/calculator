@@ -30,12 +30,4 @@ public class StringCalculatorShould {
         int result = stringCalculator.add("2");
         assertEquals(2, result);
     }
-
-    @Test
-    void return_2_if_string_exist_2() {
-        final StringCalculator stringCalculator = new StringCalculator();
-
-        int result = stringCalculator.add("2");
-        assertEquals(2, result);
-    }
 }
