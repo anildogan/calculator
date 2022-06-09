@@ -38,4 +38,12 @@ public class StringCalculatorShould {
         int result = stringCalculator.add("1,2");
         assertEquals(3, result);
     }
+
+    @Test
+    void return_8_if_string_exist_3_and_5() {
+        final StringCalculator stringCalculator = new StringCalculator();
+
+        int result = stringCalculator.add("3,5");
+        assertEquals(8, result);
+    }
 }

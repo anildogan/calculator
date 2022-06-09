@@ -9,7 +9,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StringCalculatorShould.return_8_if_string_exist_3_and_5">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -38,8 +38,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringCalculatorShould.return_0_if_string_is_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="base-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codurance.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codurance.base" />
+      <option name="MAIN_CLASS_NAME" value="com.codurance.base.StringCalculatorShould" />
+      <option name="METHOD_NAME" value="return_0_if_string_is_empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorShould.return_8_if_string_exist_3_and_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="base-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codurance.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codurance.base" />
+      <option name="MAIN_CLASS_NAME" value="com.codurance.base.StringCalculatorShould" />
+      <option name="METHOD_NAME" value="return_8_if_string_exist_3_and_5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringCalculatorShould.return_8_if_string_exist_3_and_5" />
+        <item itemvalue="JUnit.StringCalculatorShould.return_0_if_string_is_empty" />
         <item itemvalue="JUnit.StringCalculatorShould" />
       </list>
     </recent_temporary>
